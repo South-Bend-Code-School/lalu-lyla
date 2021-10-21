@@ -1,0 +1,23 @@
+body {
+background-color: black;
+color: white;
+font-family: 'Gemunu Libre', sans-ser
+
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+#title {
+  background-color: red;
+  text-align: center;
+}
+
+.RedBackground{
+  background-color: red;
+}
